@@ -1,0 +1,15 @@
+E:\ProjectsCs\cs4_hw\cs4_hw\bin\Debug\net10.0\cs4_hw.exe
+E:\ProjectsCs\cs4_hw\cs4_hw\bin\Debug\net10.0\cs4_hw.deps.json
+E:\ProjectsCs\cs4_hw\cs4_hw\bin\Debug\net10.0\cs4_hw.runtimeconfig.json
+E:\ProjectsCs\cs4_hw\cs4_hw\bin\Debug\net10.0\cs4_hw.dll
+E:\ProjectsCs\cs4_hw\cs4_hw\bin\Debug\net10.0\cs4_hw.pdb
+E:\ProjectsCs\cs4_hw\cs4_hw\obj\Debug\net10.0\cs4_hw.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProjectsCs\cs4_hw\cs4_hw\obj\Debug\net10.0\cs4_hw.AssemblyInfoInputs.cache
+E:\ProjectsCs\cs4_hw\cs4_hw\obj\Debug\net10.0\cs4_hw.AssemblyInfo.cs
+E:\ProjectsCs\cs4_hw\cs4_hw\obj\Debug\net10.0\cs4_hw.csproj.CoreCompileInputs.cache
+E:\ProjectsCs\cs4_hw\cs4_hw\obj\Debug\net10.0\cs4_hw.dll
+E:\ProjectsCs\cs4_hw\cs4_hw\obj\Debug\net10.0\refint\cs4_hw.dll
+E:\ProjectsCs\cs4_hw\cs4_hw\obj\Debug\net10.0\cs4_hw.pdb
+E:\ProjectsCs\cs4_hw\cs4_hw\obj\Debug\net10.0\cs4_hw.genruntimeconfig.cache
+E:\ProjectsCs\cs4_hw\cs4_hw\obj\Debug\net10.0\ref\cs4_hw.dll
+E:\ProjectsCs\cs4_hw\cs4_hw\obj\Debug\net10.0\cs4_hw.csproj.Up2Date
